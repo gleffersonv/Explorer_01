@@ -1,6 +1,6 @@
 # Explorer_01
 <h1 align="center">
- Decodificador de Texto
+ Móveis Customizados
 </h1>
 <p align="center">
   <img alt="" src="https://user-images.githubusercontent.com/62262162/210083290-5d8d79a8-dc67-44d6-81cb-0aec69ca4ca7.png" width="100%">
@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Live Preview: <a href="https://gleffersonv.github.io/ChallengeONE_Oracle_Alura/">Decodificador de Texto</a>
+Live Preview: <a href="https://gleffersonv.github.io/Explorer_01/">Móveis Customizados</a>
 
 ## 🎨 Inspiração:
 
